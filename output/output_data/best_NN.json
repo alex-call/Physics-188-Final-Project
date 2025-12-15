@@ -1,0 +1,12 @@
+{
+     "Best NN Subset": [
+          "event_MET",
+          "Leading_Lepton_pt",
+          "dxy",
+          "dz",
+          "ip3d",
+          "pfRelIso03_all"
+     ],
+     "Best NN Z-score": 6.069769786668839,
+     "Best NN threshold": 0.24120603015075376
+}

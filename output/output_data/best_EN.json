@@ -1,0 +1,14 @@
+{
+     "Best EN Subset": [
+          "event_MET",
+          "Leading_Lepton_pt",
+          "dr_leptons",
+          "eta",
+          "dxy",
+          "dz",
+          "ip3d",
+          "pfRelIso03_all"
+     ],
+     "Best EN Z-score": 5.439117575489613,
+     "Best EN threshold": 0.24623115577889448
+}

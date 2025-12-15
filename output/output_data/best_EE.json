@@ -1,0 +1,15 @@
+{
+     "Best EE Subset": [
+          "event_MET",
+          "Leading_Lepton_pt",
+          "dr_leptons",
+          "eta",
+          "dxy",
+          "dz",
+          "ip3d",
+          "miniPFRelIso_all",
+          "jetNDauCharged"
+     ],
+     "Best EE Z-score": 3.8617409905715934,
+     "Best EE threshold": 0.21608040201005024
+}
