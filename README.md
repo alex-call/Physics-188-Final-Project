@@ -4,4 +4,4 @@ Upon running, outputs (important variable lists, function returns, plots, etc) a
 
 CMS data is stored in the data folder. Users should not need to interact with this folder.
 
-All necessary packages are documented in requirements.md
+All necessary packages are documented in requirements.txt
