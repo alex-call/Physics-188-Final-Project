@@ -1,7 +1,14 @@
-To execute, simply run 188_FINAL_PROJECT.py. 
+# 188-288 Final Project
 
-Upon running, outputs (important variable lists, function returns, plots, etc) are saved in the folders output/output_data and output/plots. Content is updated each time 188_FINAL_PROJECT.py is run.
+This repository contains the code and data for the final project. The analysis is implemented as a Python script that reads the required input datasets from the `data/` directory, executes the full workflow, and saves all generated outputs (including plots, variable lists and function returns) to the `output/` directory. A `requirements.txt` file is provided to ensure reproducibility.
 
-CMS data is stored in the data folder. Users should not need to interact with this folder.
+To run the project, first install the required dependencies using:
 
-All necessary packages are documented in requirements.txt
+pip install -r requirements.txt
+
+Once the dependencies are installed, run the main script with:
+
+python 188_FINAL_PROJECT.py
+
+After execution, all results and figures produced will be available in the `output/` directory. 
+
