@@ -1,0 +1,12 @@
+{
+     "Total Test Signal": 427.0,
+     "Total Test Background": 858.0,
+     "Best S/B at threshold t": 0.9899497487437187,
+     "S (S/B)": 366.0,
+     "B (S/B)": 3.0,
+     "Z (S/B)": 19.05319895040994,
+     "Best S/sqrt(S+B) at threshold t": 0.6130653266331658,
+     "S (Z)": 424.0,
+     "B (Z)": 13.0,
+     "Z (Z)": 20.28267062516145
+}
