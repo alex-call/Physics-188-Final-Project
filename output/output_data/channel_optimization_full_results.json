@@ -1,0 +1,275 @@
+{
+     "EE results": {
+          "best_subset": [
+               "event_MET",
+               "Leading_Lepton_pt",
+               "dr_leptons",
+               "eta",
+               "dxy",
+               "dz",
+               "ip3d",
+               "miniPFRelIso_all",
+               "jetNDauCharged"
+          ],
+          "best_Z": 3.852491227031356,
+          "best_threshold": 0.1708542713567839,
+          "all_results": [
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 3.026614978831714,
+                    "best_threshold": 0.1306532663316583
+               },
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 3.1421544087390436,
+                    "best_threshold": 0.18090452261306533
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 3.7182700164046207,
+                    "best_threshold": 0.19597989949748745
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 3.8280811913381143,
+                    "best_threshold": 0.22613065326633167
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 3.493304252877868,
+                    "best_threshold": 0.19597989949748745
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "miniPFRelIso_all",
+                         "jetNDauCharged"
+                    ],
+                    "best_Z": 3.852491227031356,
+                    "best_threshold": 0.1708542713567839
+               }
+          ]
+     },
+     "EN results": {
+          "best_subset": [
+               "event_MET",
+               "Leading_Lepton_pt",
+               "dr_leptons",
+               "eta",
+               "dxy",
+               "dz",
+               "ip3d",
+               "miniPFRelIso_all",
+               "jetNDauCharged"
+          ],
+          "best_Z": 5.404340528845693,
+          "best_threshold": 0.23115577889447236,
+          "all_results": [
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 4.704741885732511,
+                    "best_threshold": 0.1658291457286432
+               },
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 4.790104618950942,
+                    "best_threshold": 0.17587939698492464
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.268684479505136,
+                    "best_threshold": 0.21608040201005024
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.131156509334681,
+                    "best_threshold": 0.19597989949748745
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.351548640130455,
+                    "best_threshold": 0.24120603015075376
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "miniPFRelIso_all",
+                         "jetNDauCharged"
+                    ],
+                    "best_Z": 5.404340528845693,
+                    "best_threshold": 0.23115577889447236
+               }
+          ]
+     },
+     "NN results": {
+          "best_subset": [
+               "event_MET",
+               "Leading_Lepton_pt",
+               "dxy",
+               "dz",
+               "ip3d",
+               "pfRelIso03_all"
+          ],
+          "best_Z": 6.292532049656926,
+          "best_threshold": 0.21608040201005024,
+          "all_results": [
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.7476703355111,
+                    "best_threshold": 0.1457286432160804
+               },
+               {
+                    "subset": [
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "dxy",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.800777694776084,
+                    "best_threshold": 0.19597989949748745
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 6.292532049656926,
+                    "best_threshold": 0.21608040201005024
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 5.955098946550214,
+                    "best_threshold": 0.22110552763819097
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "pfRelIso03_all"
+                    ],
+                    "best_Z": 6.292234349955038,
+                    "best_threshold": 0.20100502512562815
+               },
+               {
+                    "subset": [
+                         "event_MET",
+                         "Leading_Lepton_pt",
+                         "dr_leptons",
+                         "eta",
+                         "dxy",
+                         "dz",
+                         "ip3d",
+                         "miniPFRelIso_all",
+                         "jetNDauCharged"
+                    ],
+                    "best_Z": 5.980464651413677,
+                    "best_threshold": 0.18090452261306533
+               }
+          ]
+     }
+}

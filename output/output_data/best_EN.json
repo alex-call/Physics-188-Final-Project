@@ -7,8 +7,9 @@
           "dxy",
           "dz",
           "ip3d",
-          "pfRelIso03_all"
+          "miniPFRelIso_all",
+          "jetNDauCharged"
      ],
-     "Best EN Z-score": 5.439117575489613,
-     "Best EN threshold": 0.24623115577889448
+     "Best EN Z-score": 5.404340528845693,
+     "Best EN threshold": 0.23115577889447236
 }
