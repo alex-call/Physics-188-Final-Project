@@ -6,9 +6,9 @@ To run the project, first install the required dependencies using:
 
 pip install -r requirements.txt
 
-Once the dependencies are installed, run the main script with:
+Once the dependencies are installed, run the main script:
 
-python 188_FINAL_PROJECT.py
+188_FINAL_PROJECT.ipynb
 
 After execution, all results and figures produced will be available in the `output/` directory. 
 
