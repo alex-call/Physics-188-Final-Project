@@ -1,12 +1,12 @@
 {
      "Total Test Signal": 427.0,
      "Total Test Background": 858.0,
-     "Best S/B at threshold t": 0.9899497487437187,
-     "S (S/B)": 366.0,
-     "B (S/B)": 3.0,
-     "Z (S/B)": 19.05319895040994,
-     "Best S/sqrt(S+B) at threshold t": 0.6130653266331658,
-     "S (Z)": 424.0,
-     "B (Z)": 13.0,
-     "Z (Z)": 20.28267062516145
+     "Best S/B at threshold t": 0.9849246231155779,
+     "S (S/B)": 380.0,
+     "B (S/B)": 1.0,
+     "Z (S/B)": 19.467989743985278,
+     "Best S/sqrt(S+B) at threshold t": 0.6180904522613065,
+     "S (Z)": 425.0,
+     "B (Z)": 15.0,
+     "Z (Z)": 20.261080021468835
 }

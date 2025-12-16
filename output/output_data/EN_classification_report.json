@@ -1,4 +1,4 @@
 {
-     "Classification report at threshold 0.5": "              precision    recall  f1-score   support\n\n           0      0.999     0.976     0.987       858\n           1      0.953     0.998     0.975       427\n\n    accuracy                          0.983      1285\n   macro avg      0.976     0.987     0.981      1285\nweighted avg      0.984     0.983     0.983      1285\n",
-     "Test accuracy": 0.9828793774319066
+     "Classification report at threshold 0.5": "              precision    recall  f1-score   support\n\n           0      0.996     0.979     0.988       858\n           1      0.959     0.993     0.976       427\n\n    accuracy                          0.984      1285\n   macro avg      0.978     0.986     0.982      1285\nweighted avg      0.984     0.984     0.984      1285\n",
+     "Test accuracy": 0.9836575875486381
 }
